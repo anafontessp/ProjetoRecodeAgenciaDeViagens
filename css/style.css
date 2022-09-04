@@ -10,7 +10,7 @@ h2 {
   font-family: Tahoma, Verdana, sans-serif;
   border-bottom: 4px solid background-color: #0375b4;
   background-image: linear-gradient(43deg, #0375b4 0%, #007849 46%, #FFCC00 100%);
-  color: white
+  color: white;
 }
 
 h5 {
