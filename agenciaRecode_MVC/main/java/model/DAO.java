@@ -1,14 +1,17 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+
 package model;
 
-public class Parceiros {
+public class dao {
 	// Atributos
 	private int id;
 	private String nome;
 	// Contrutores
-	public Parceiros() {
+	public dao() {
 	}
 	
-	public Parceiros(int id, String nome) {
+	public dao (int id, String nome) {
 		super();
 		this.id = id;
 		this.nome = nome;
@@ -36,7 +39,7 @@ public class Parceiros {
 	// ToString
 	@Override
 	public String toString() {
-		return "Parceiros [id=" + id + ", nome=" + nome + "]";
+		return "dao [id=" + id + ", nome=" + nome + "]";
 	}
 	
 	
