@@ -1,20 +1,20 @@
 # Protótipo_site_agencia_de_viagens
-Protótipo do projeto de um site para uma agência de viagens para entrega de atividade individual do Programa Recode 2022 dos conteúdos dos módulos 02, 03 e 04. Dando continuidade ao projeto a ser realizado individualmente.
+Protótipo do projeto de um site para uma agência de viagens para entrega de atividade individual do Programa Recode 2022 dos conteúdos dos módulos 02, 03, 04 e 05. Dando continuidade ao projeto a ser realizado individualmente.
 Orientado pelo professor Flávio Mota, professora Nathally e os monitores Vânia e Cristiano do Programa Recode Pro 2022.
 
 Uma agência de viagens precisa de uma série de módulos para organizar as informações dos seus clientes, apresentar seus serviços e melhorar os serviços oferecidos aos seus parceiros.
 
-Nesta atividade, foi utilizado os conceitos de algoritmos em pseudocódigo (Resolução de problemas usando portugol), HTML, CSS e BOOTSTRAP para a construção de um modelo de agência de viagens.
+Nesta atividade, foi utilizado os conceitos de algoritmos em pseudocódigo (Resolução de problemas usando portugol), HTML, CSS, JAVA, MVC e BOOTSTRAP para a construção de um modelo de agência de viagens.
 
 Usando Pseudocódigo:
 
 Usando conceitos de programação estruturada (Vetor), foi criado em pseudocódigo um menu para simular uma agência de viagens com as seguintes funções com cinco páginas incluindo: cadastro de cliente e cadastro de destino na sua última página.
 
-Usando HTML / CSS / BOOTSTRAP:
+Usando HTML / CSS / JAVA / MVC / BOOTSTRAP:
 
-Um protótipo da primeira versão do site;
+Um protótipo da quarta versão do site;
 
-As páginas: Home, Agência, Destinos, Promoções, Galeria e Contato de acordo com o modelo de negócio. Usando HTML, CSS e BOOTSTRAP;
+As páginas: Home, Agência, Destinos, Promoções, Galeria e Contato de acordo com o modelo de negócio. Usando HTML, CSS, JAVA, MVC e BOOTSTRAP;
 
 As páginas são responsivas e adaptáveis.
 
